@@ -6,7 +6,6 @@
 
 
 - 💬 Ask me about **JavaScript, Node.js, React, Docker, MySQL, MongoDb**
-- 🌱 I’m currently learning **Kubernetes**
 - 📫 How to reach me **ahmedraef806@gmail.com**
 0
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BTo6RZ0r-ywIOAE6gxqdQMGxE1PdQWr4/view?usp=sharing](https://drive.google.com/file/d/1BTo6RZ0r-ywIOAE6gxqdQMGxE1PdQWr4/view?usp=sharing)
